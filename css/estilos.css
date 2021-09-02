@@ -124,7 +124,9 @@ h1{
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
-
+footer{
+    padding-top: 5px;
+}
 
 @media screen and (max-width: 800px){
     .imaghero, .ordersummary{
