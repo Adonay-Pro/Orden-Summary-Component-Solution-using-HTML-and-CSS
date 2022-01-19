@@ -8,7 +8,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -64,9 +63,6 @@ I Would like to know more about using the "position:" property. but, in general 
 - [MDN Web Docs](https://www.udemy.com/course/universidad-desarrollo-web-moderno-html-css-javascript-html5-css3/learn/lecture/25973108?start=90#overview) - This is a good web site which helped me understand more some specific concepts about some properties in HTML and CSS.
 - [On web]() -There are a lot of information on the web , they could help me how to use some properties in CSS and HTML
 
-## Author
-
-- Frontend Mentor - [@Adonay-Pro](https://www.frontendmentor.io/profile/Adonay-Pro)
 
 ## Acknowledgments
 
