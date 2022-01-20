@@ -25,6 +25,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 
+### Screenshot
+
+<img src="/design/desktop-design.jpg">
+
 ### What I learned
 
 I applied for first time in project the ".svg format" en HTML and  "position:relative" property in CSS. 
@@ -42,6 +46,8 @@ I applied for first time in project the ".svg format" en HTML and  "position:rel
     left: 5px;
 }
 ```
+
+
 ### Useful resources
 
 - [UDEMY COURSE ONLINE](https://www.udemy.com/course/universidad-desarrollo-web-moderno-html-css-javascript-html5-css3/learn/lecture/25973108?start=90#overview) - This course have been taching me about Frontend web developer. I really liked this pattern and will use it going forward.
